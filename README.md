@@ -3,7 +3,7 @@ autostart
 
 If a non-existent page is requested, but a namespace with that name exists, and it has a start page, you will be redirected to it.
 
-Link: [https://www.dokuwiki.org/plugin:autostart[]]
+Link: [](https://www.dokuwiki.org/plugin:autostart)
 
 Autor: Jesús A. Álvarez
 
