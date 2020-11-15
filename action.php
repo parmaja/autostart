@@ -36,7 +36,8 @@
         function preprocess(& $event, $param) {
             global $conf;
             global $ID;
-            if (!$this->page_exists($ID) && $event->data == 'show')
+            //if (!$this->page_exists($ID) && $event->data == 'show')
+            if (!$this->page_exists($ID))
             {
                 if($this->page_exists($ID.':'.$conf['start']))
                     // start page inside namespace
