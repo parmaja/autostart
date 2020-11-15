@@ -33,7 +33,7 @@
             $controller->register_hook('ACTION_ACT_PREPROCESS', 'AFTER', $this, 'preprocess', array ());
         }
 
-        function preprocess(Doku_Event $event, $param)
+        function preprocess(Doku_Event $event, $param) {
             global $conf;
             global $ID;
             //if (!$this->page_exists($ID) && $event->data == 'show')
