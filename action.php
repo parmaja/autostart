@@ -1,4 +1,4 @@
-    <?php
+<?php
     /**
      * Autostart Plugin: Redirects to the namespace's start page if available
      *
