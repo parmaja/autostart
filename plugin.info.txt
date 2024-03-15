@@ -1,8 +1,7 @@
 base   autostart
 author Jesús A. Álvarez
 email  zydeco@namedfork.net
-date   2020-11-15
+date   2024-03-15
 name   AutoStart
 desc   Redirect from the namespace's name to its start page
 url    https://www.dokuwiki.org/plugin:autostart
-source https://www.dokuwiki.org/plugin:autostart
